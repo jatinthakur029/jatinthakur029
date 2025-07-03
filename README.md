@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatinthakur029
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via github,linkedin,X
 - 😄 Pronouns: he

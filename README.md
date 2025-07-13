@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatinthakur029
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via github,linkedin,X

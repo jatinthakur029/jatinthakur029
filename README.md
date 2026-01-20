@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @jatinthakur029
-- 👀 I’m interested in devop
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via github,linkedin,X
-- 😄 Pronouns: he
-- ⚡ Fun fact: i am alive
+## 👋 Hi, I'm Jatin
 
-<!---
-jatinthakur029/jatinthakur029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 DevOps learner focused on Linux, CI/CD, and cloud fundamentals  
+🛠️ Working with Docker, Jenkins, Git, Nexus, SonarQube  
+📈 Building projects step by step and documenting everything  
+🎯 Goals 2026: Internship + Freelancing  
+
+### What I’m doing right now
+- Strengthening Linux & networking fundamentals
+- Building CI/CD pipelines
+- Preparing for cloud & MLOps
+
+### Connect
+- LinkedIn: Jatin Thakur 

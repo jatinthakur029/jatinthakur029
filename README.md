@@ -1,14 +1,22 @@
-## 👋 Hi, I'm Jatin
+👋 Hi, I'm Jatin
 
-🚀 DevOps learner focused on Linux, CI/CD, and cloud fundamentals  
-🛠️ Working with Docker, Jenkins, Git, Nexus, SonarQube  
-📈 Building projects step by step and documenting everything  
-🎯 Goals 2026: Internship + Freelancing  
+🚀 DevOps & MLOps learner passionate about building developer tools and automation.
 
-### What I’m doing right now
-- Strengthening Linux & networking fundamentals
-- Building CI/CD pipelines
-- Preparing for cloud & MLOps
+🛠️ Working with Linux, Docker, Kubernetes, Jenkins, Git, Terraform, Python, and AWS.
 
-### Connect
-- LinkedIn: Jatin Thakur 
+💻 Currently building **Arjun** — an open-source log analysis CLI tool for DevOps engineers.
+
+📚 Learning Python, NumPy, Pandas, cloud technologies, and machine learning to build practical automation tools.
+
+🎯 2026 Goals:
+
+* Land a DevOps Internship
+* Contribute to Open Source
+* Build developer tools that solve real engineering problems
+
+### Current Focus
+
+* Improving Kubernetes fundamentals
+* Building DevOps automation tools
+* Learning MLOps and AI for infrastructure
+* Sharing projects and documenting the journey
